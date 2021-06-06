@@ -1,0 +1,30 @@
+.container{
+    background-color: rgb(103, 95, 226);
+}
+
+.squareCustom{
+    background-color: rgb(255, 255, 255);
+    flex-wrap: wrap;
+}
+
+.reset-button{
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px;
+}
+
+.reset-button:hover{
+    background:rgb(103, 109, 102);
+}
+
+.grid-container{
+    display: flex;
+    
+    width: 500px;
+    height: 500px;
+    border: solid 4px;
+    justify-content: flex-start;
+    flex-basis: 0;
+    align-items: stretch;
+
+}

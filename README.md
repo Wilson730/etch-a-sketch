@@ -1,0 +1,1 @@
+Etch a sketch is a grid that contains boxes which change to a random color whenever the user hovers their mouse over them
